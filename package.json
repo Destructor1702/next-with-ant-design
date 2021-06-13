@@ -10,7 +10,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@ant-design/icons": "4.1.0",
+    "@ant-design/icons": "4.6.2",
     "@ant-design/pro-layout": "5.0.19",
     "@zeit/next-less": "1.0.1",
     "antd": "4.4.3",
